@@ -1,0 +1,7 @@
+.next/
+dist/
+node_modules/
+next-env.d.ts
+.open-next/
+*.log
+*.err
